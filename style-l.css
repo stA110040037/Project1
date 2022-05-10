@@ -157,7 +157,7 @@ header {
     background: -moz-linear-gradient(#000000 0%, #888888 100%);
     background: -o-linear-gradient(#000000 0%, #888888 100%);
     background: -ms-linear-gradient(#000000 0%, #888888 100%);
-    background: linear-gradient(#000000 0%, #888888 100%);
+    background: linear-gradient(#f40000 0%, #424242 100%);
     overflow: hidden;
 }
 
